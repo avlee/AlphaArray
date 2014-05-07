@@ -1,0 +1,16 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Others
+[Bb]in
+[Oo]bj
